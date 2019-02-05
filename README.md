@@ -67,7 +67,7 @@ There are a couple of key updates I'd like to make:
 
 Metallica are almost always touring so there is a need to update this database regularly. So in future updates, I'd like to adapt my python script to check Metallica.com for any new gigs and if there any, automatically add them to the database in a cleaned state with minimal coding required from a user. 
 
-If I can host all this on a webapp
+If I can host all this on a webapp as well, even cooler :)
 
 <img src='Assets/lars.gif'>
 
