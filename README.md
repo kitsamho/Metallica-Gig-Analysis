@@ -59,15 +59,17 @@ Pandas
 Numpy
 Googlemaps( note - if you want to use Google’s API then you will need to add your API key in the script where I’ve made a note)
 
-How to run the project
+## Final Data
+
+If you want the final, clean data you can get it [here](https://github.com/kitsamho/Metallica-Gig-Analysis/tree/master/0_Final%20Clean%20Data)
 
 ## Observations & Improvements
 
-There are a couple of key updates I'd like to make
+There are a couple of key updates I'd like to make:
 
-  - Metallica are almost always touring so I'd like to adapt my python script to check Metallica.com for any new gigs and if there any, automatically add them to the database in a cleaned state with minimal coding effort from a user. 
+Metallica are almost always touring so I'd like to adapt my python script to check Metallica.com for any new gigs and if there any, automatically add them to the database in a cleaned state with minimal coding effort from a user. 
 
-<img src='Assets/lars.gif' style="width: 400px;">
+<img src='Assets/lars.gif'>
 
 
 
