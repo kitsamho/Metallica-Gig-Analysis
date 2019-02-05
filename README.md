@@ -1,7 +1,5 @@
 <img src='Assets/readme.png' style="width: 400px;">
 
-
-
 # Project Goals
 
 To curate a detailed data set containing all of Metallica’s live performances to date. Data to be enhanced by two other data streams in order to further enrich it and make it more useful/interesting for analytical purposes further down the line. 
@@ -67,7 +65,9 @@ If you want the final, clean data you can get it [here](https://github.com/kitsa
 
 There are a couple of key updates I'd like to make:
 
-Metallica are almost always touring so I'd like to adapt my python script to check Metallica.com for any new gigs and if there any, automatically add them to the database in a cleaned state with minimal coding effort from a user. 
+Metallica are almost always touring so there is a need to update this database regularly. So in future updates, I'd like to adapt my python script to check Metallica.com for any new gigs and if there any, automatically add them to the database in a cleaned state with minimal coding required from a user. 
+
+If I can host all this on a webapp
 
 <img src='Assets/lars.gif'>
 
