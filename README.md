@@ -1,4 +1,4 @@
-# Metallica-Live-Database
+<img src='Assets/header.png'>
 
 ## Goals of the project
 
