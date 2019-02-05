@@ -32,7 +32,7 @@ The best approach will involve some kind of web scraping. I will use Selenium fo
 
 The diagram below summarises the data streams I intend to obtain and how I intend them to work with one another.
 
-<img src='Assets/data_streams_and_feature_engineering' style="width: 400px;">
+<img src='Assets/data_streams_and_feature_engineering.jpeg' style="width: 400px;">
 
 Once I’ve scraped, cleaned and integrated all these data streams into a final .csv file, I can then begin to look at analyzing and visualizing the data.
 
