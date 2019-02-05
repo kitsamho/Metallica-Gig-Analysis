@@ -1,4 +1,6 @@
-<img src='Assets/header.png'>
+<img src='Assets/readme.png' style="width: 400px;">
+
+
 
 ## Goals of the project
 
